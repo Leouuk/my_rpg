@@ -45,5 +45,5 @@ Now that you know everything, it's time to explain how to play the game.
 ## From 
 
  - [Rémi Maigrot](https://github.com/RemiMaigrot)
- - [Lépold Sallan Gémard](https://github.com/Leouuk)
+ - [Léopold Sallan Gémard](https://github.com/Leouuk)
  - [Evan Lacoste](...)
